@@ -12,4 +12,8 @@ color:
     - '#2980B9'
 layout_spectrum: 0.5510455220937729
 name: Privatis test 2
+navigation:
+  - name: Paintshield Vancouver
+    url: 'http://paintshieldvancouver.com/'
+    type: external
 title: "hello\_"
